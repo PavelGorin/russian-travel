@@ -1,0 +1,28 @@
+@import url(./__title/place__title.css);
+@import url(./__image/place__image.css);
+@import url(./__website/place__website.css);
+@import url(./__paragraph/place__paragraph.css);
+
+.place {
+  display: flex;
+  width: 984px;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1279px) {
+	.place {
+    width: 928px;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.place {
+    width: 720px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.place {
+    width: 320px; 
+	}
+}

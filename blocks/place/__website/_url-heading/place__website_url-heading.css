@@ -1,0 +1,13 @@
+.place__website_url-heading {
+  color: #AAAAAA;
+  vertical-align: bottom;
+  margin: 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  bottom: 34px;
+  position: absolute;
+}

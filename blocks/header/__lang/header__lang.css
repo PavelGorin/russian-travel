@@ -1,0 +1,17 @@
+@import url(./_ru/header__lang_ru.css);
+@import url(./_en/header__lang_en.css);
+
+.header__lang {
+  display: flex;
+  margin-top: 18px;
+  padding: 0;
+  list-style: none;
+  justify-content: space-between;
+}
+
+
+@media screen and (max-width: 767px) {
+	.header__lang {
+    margin-top: 14px;
+	}
+}

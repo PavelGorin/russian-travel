@@ -1,0 +1,31 @@
+@import url(./_url-heading/place__website_url-heading.css);
+@import url(./_link/place__websit_link.css);
+
+.place__website {
+  display: inline;
+  position: relative;
+  padding-top: 80px;
+  margin-left: 40px;
+  width: 456px;
+  justify-content: end;
+}
+
+@media screen and (max-width: 1279px) {
+	.place__website {
+    margin-left: 32px;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.place__website {
+    padding-top: 72px;
+    width: 352px;
+    margin-left: 28px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.place__website {
+    display: none;
+	}
+}
