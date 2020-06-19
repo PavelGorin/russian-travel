@@ -1,0 +1,7 @@
+.place__paragraph_info {
+  margin: 0;
+}
+
+.place__paragraph_info:last-child {
+  padding-top: 24px;
+}

@@ -2,7 +2,6 @@
   color: white;
   margin: 0;
   width: 186px;
-  height: 16px;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -16,5 +15,6 @@
     text-align: left;
     font-size: 14px;
     line-height: 14px; 
+    padding-top: 48px;
 	}
 }

@@ -5,29 +5,26 @@
 .intro {
   background:  #2A2C2F;
   width: 984px;
-  height: 428px;
   margin: auto;
   padding-top: 92px;
 }
 
 @media screen and (max-width: 1279px) {
-	.intro {
+  .intro {
     width: 928px;
-	}
+  }
 }
 
 @media screen and (max-width: 1023px) {
-	.intro {
+  .intro {
     padding-top: 88px;
     width: 720px;
-    height: 428px;
-	}
+  }
 }
 
 @media screen and (max-width: 767px) {
-	.intro {
+  .intro {
     padding-top: 64px;
     width: 288px;
-    height: 752px; 
-	}
+  }
 }

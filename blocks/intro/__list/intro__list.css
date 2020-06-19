@@ -1,26 +1,22 @@
 .intro__list {
   color: white;
-  font-family: Inter;
+  font-family: 'Inter';
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
   line-height: 18px;
   width: 690px;
-  height: 90px;
   margin: 0;
-  padding-top: 32px;
 }
 
 @media screen and (max-width: 1023px) {
 	.intro__list {
     width: 720px;
-    height: 90px;
 	}
 }
 
 @media screen and (max-width: 767px) {
 	.intro__list {
     width: 288px;
-    height: 90px 
 	}
 }

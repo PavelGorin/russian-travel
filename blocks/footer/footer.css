@@ -5,7 +5,6 @@
 .footer {
   display: flex;
   width: 1184px;
-  height: 18px;
   margin: auto;
   padding-top: 92px;
   padding-bottom: 24px;
@@ -28,7 +27,6 @@
 @media screen and (max-width: 767px) {
 	.footer {
     width: 288px;
-    height: 310px;
     padding-top: 64px;
     flex-direction: column;
   }
