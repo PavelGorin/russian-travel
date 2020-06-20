@@ -1,0 +1,7 @@
+.place__info {
+  margin: 0;
+}
+
+.place__info:last-child {
+  padding-top: 24px;
+}

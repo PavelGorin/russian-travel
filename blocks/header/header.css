@@ -1,5 +1,7 @@
 @import url(./__lang/header__lang.css);
 @import url(./__logo/header__logo.css);
+@import url(./__lang-type/header__lang-type.css);
+@import url(./__lang-type/_active/header__lang-type_active.css);
 
 .header {
   display: flex;

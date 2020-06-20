@@ -1,19 +1,20 @@
-.header__lang_en {
+.header__lang-type {
   color: white;
   text-decoration: none;
-  font-family: Inter;
+  font-family: 'Inter', ‘Arial’, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 28px;
 }
 
-.header__lang_en:hover {
+.header__lang-type:hover {
   text-decoration: underline;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
-	.header__lang_en {
+	.header__lang-type {
     font-size: 18px;
     line-height: 24px;
 	}

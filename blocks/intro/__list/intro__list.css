@@ -1,12 +1,11 @@
+@import url(./_content-normal/intro__list_content-normal.css);
+@import url(./_content-bold/intro__list_content-bold.css);
+
 .intro__list {
-  color: white;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 18px;
   width: 690px;
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 @media screen and (max-width: 1023px) {
